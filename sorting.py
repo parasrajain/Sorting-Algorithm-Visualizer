@@ -4,7 +4,7 @@ import numpy as np
 
 test = False
 
-class Array:
+class Arr
 
     full_array = None
 
